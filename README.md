@@ -23,34 +23,13 @@
 
 ## 👋 Sobre mim
 
-Sou **Desenvolvedora de Software**, formada em **Análise e Desenvolvimento de Sistemas**, com experiência em projetos envolvendo **desenvolvimento de sistemas, Inteligência Artificial e pesquisa aplicada**.
+Sou **Desenvolvedora de Software**, formada em **Análise e Desenvolvimento de Sistemas**, com experiência no desenvolvimento de aplicações e soluções baseadas em **Inteligência Artificial**.
 
-Tenho interesse em transformar conceitos de IA em aplicações práticas, explorando principalmente **LLMs, RAG, agentes inteligentes, guardrails, visão computacional e visualização de dados**.
+Atuo com **Python, Flask, JavaScript, SQL e desenvolvimento de APIs**, além de projetos envolvendo **IA Generativa, LLMs, RAG, agentes de Inteligência Artificial e guardrails**.
 
-Meu objetivo é unir **engenharia de software + inteligência artificial + pesquisa** para desenvolver sistemas experimentais, mensuráveis e documentados.
+Minha experiência inclui o desenvolvimento de sistemas, automação de processos, experimentação com modelos de IA, criação de mecanismos de validação e avaliação de aplicações inteligentes.
 
----
-
-## 🧠 Áreas de interesse
-
-<div align="center">
-
-| 🤖 Inteligência Artificial | 🔬 Pesquisa |
-|---|---|
-| IA Generativa | Experimentação |
-| LLMs | Avaliação de modelos |
-| RAG | Métricas |
-| AI Agents | Testes |
-| Guardrails | Pesquisa aplicada |
-
-| 💻 Desenvolvimento | 📊 Dados |
-|---|---|
-| Python | Visualização |
-| Flask | SQL |
-| APIs REST | SQLite |
-| JavaScript | Análise de dados |
-
-</div>
+Também desenvolvo projetos nas áreas de **visão computacional e visualização de dados**, trabalhando com processamento de imagens, detecção de objetos, análise de dados e representação visual de resultados.
 
 ---
 
@@ -161,40 +140,3 @@ Dashboard para monitoramento de disponibilidade e desempenho de APIs.
 **Stack:** `Python` `Flask` `JavaScript` `REST API`
 
 ---
-
-### 👷 Detecção de Capacete — YOLOv8
-
-Sistema de **visão computacional** para detecção de capacetes e equipamentos de proteção individual em ambientes industriais.
-
-**Conceitos:**
-
-- Computer Vision
-- YOLOv8
-- Detecção de objetos
-- Processamento de imagens
-- Segurança industrial
-
-**Stack:** `Python` `YOLOv8` `Computer Vision`
-
----
-
-### 📊 Visualização de Dados + Inteligência Artificial
-
-Projeto acadêmico envolvendo **reconhecimento de expressões faciais, análise de emoções e visualização de dados**.
-
-Pipeline experimental:
-
-```text
-Imagem
-   ↓
-Pré-processamento
-   ↓
-Detecção facial
-   ↓
-Reconhecimento da expressão
-   ↓
-Classificação da emoção
-   ↓
-Métricas
-   ↓
-Visualização
